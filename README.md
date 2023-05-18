@@ -1,7 +1,6 @@
-# task1
+# Insta Pay
 
-A new Flutter project.
-
+Figma to Flutter pixel perfect design
 ## Getting Started
 
 This project is a starting point for a Flutter application.
